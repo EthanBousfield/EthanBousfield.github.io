@@ -1,0 +1,5 @@
+remote_theme: pages-themes/hacker
+title: Hacker
+
+plugins:
+  - jekyll-seo-tag
