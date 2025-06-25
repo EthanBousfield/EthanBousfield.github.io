@@ -9,7 +9,7 @@
 
 Python is a high level programming language which is beginner friendly and easy to use, preffered by most modern companies<br>
 ## Packages <br>
-some of the python packages include
+some of the python packages include <br>
 ### Data Manipulation & Analysis
 - **pandas** – Data structures and analysis tools.
 - **numpy** – Support for large, multi-dimensional arrays and matrices.
