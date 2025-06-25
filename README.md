@@ -5,7 +5,8 @@
   - [Data Manipulation & Analysis](#data-manipulation--analysis)
   - [Data Visualization](#data-visualization)
 
-#About Python
+# About Python
+
 Python is a high level programming language which is beginner friendly and easy to use, preffered by most modern companies<br>
 ## Packages <br>
 some of the python packages include
