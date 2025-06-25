@@ -26,6 +26,8 @@ some of the python packages include
 
 > pythons are long - Plato
 
+![]()
+
 ---
 # Fun Python Facts
 
