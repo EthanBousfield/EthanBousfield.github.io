@@ -61,8 +61,11 @@ Explain the project's impact, functionality, or unique features.
 
 ## 📜 Certifications
 
-- [Certification Name](https://verify.link) — Issuer, Year
-- Google Cloud Associate Engineer — Google, 2024
+- Level 1 in Mentoring
+- Azure AI Fundamentals
+- Azure Data Fundamentals
+- Level 7 (MSc) In Data Analytics
+- Level 6 (Bsc) In Computer Networks and Cybersecurity
 
 ---
 
