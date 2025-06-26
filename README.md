@@ -1,4 +1,4 @@
-# Your Name
+# Ethan Bousfield
 
 **Email:** [ethanjoe16@gmail.com](mailto:ethanjoe16@gmail.com)  
 **Phone:** 07507755877
