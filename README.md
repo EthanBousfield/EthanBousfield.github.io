@@ -1,8 +1,8 @@
 # Your Name
 
-**Email:** [your.email@example.com](mailto:your.email@example.com)  
-**Phone:** (123) 456-7890  
-**LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+**Email:** [ethanjoe16@gmail.com](mailto:ethanjoe16@gmail.com)  
+**Phone:** 07507755877
+**LinkedIn:** [linkedin.com/in/Ethan Bousfield](www.linkedin.com/in/ethan-bousfield-59b096272)  
 **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
 **Website/Portfolio:** [yourwebsite.com](https://yourwebsite.com)
 
@@ -10,8 +10,6 @@
 
 ## 🧑‍💼 About Me
 
-A brief paragraph summarizing your background, passions, and career goals.  
-Keep it concise, compelling, and tailored to the industry you're targeting.
 
 ---
 
